@@ -1,5 +1,12 @@
+
+
 # Shop description
-All necessary info about files is in zadaniabo2.txt 
+Engineered and implemented a Genetic Algorithm (GA) model in Python to solve complex distribution and logistics optimization
+for an e-commerce Lego Blocks Store.
+Structured the application using strong Object-Oriented Programming (OOP) principles for high scalability and maintainability.
+Integrated advanced GA methods (Elitism, Tournament, Selection) and a dedicated PyQt GUI to visualize algorithm progress.
+
+All necessary info about files is in zadaniabo2.txt
 
 
 Delivery functionality:
